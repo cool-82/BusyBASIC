@@ -1,6 +1,9 @@
-#copyright louis matthews 2025, all rights reserved
-#no stealling
-#example code: 00101 10011 01000 11100 10000 10111 00010 01000 11100
+#no stealling pretty please
+
+#heres some example code: 
+#00101 10011 01000 11100 10000 10111 00010 01000 11100
+#it prints 1 if the bit is 1 and 0 if its 0 but in a workaround way and i only just realised that it could be heavily simplified
+#but this is to show off how it works not to be efficient
 data = []
 print("how many bits should there be?")
 zzzzaaaarrrrgggg = int(input())
